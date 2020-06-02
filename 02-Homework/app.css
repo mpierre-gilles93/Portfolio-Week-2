@@ -1,0 +1,20 @@
+
+body , footer , h1{
+
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+   
+
+
+footer{
+    background-color: red;
+    text-align: center;
+}
+h1{
+    color: rgb(201, 143, 68);
+}
+
+aside , section{
+    padding:40px ;
+}
